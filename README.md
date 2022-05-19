@@ -1,0 +1,2 @@
+# Consulting-Report-for-George-Washington-University
+#Project is a consulting report for George Washington University Men's Basketball Program.  This project uses the same data set as the visualization project.  This project uses a fictitious scenario where George Washington University Men's Basketball program has hired a consulting firm to analyze data and provide a report with recommendations to help elevate the basketball program.   
